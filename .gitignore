@@ -1,0 +1,54 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+# =========================
+# ML Models & Artifacts
+# =========================
+models/*.joblib
+models/*.pkl
+models/*.pt
+models/*.h5
+
+# =========================
+# Temporary / Runtime Data
+# =========================
+temp_uploads/
+logs/
+*.log
+
+# =========================
+# Audio / Large Data
+# =========================
+*.wav
+*.mp3
+*.flac
+data/
+datasets/
+
+# =========================
+# Streamlit / FastAPI
+# =========================
+.streamlit/
+uvicorn.log
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Notebooks (optional)
+# =========================
+.ipynb_checkpoints/
