@@ -1,10 +1,10 @@
-🎧 AI-Powered Contact Center Intelligence System
+## 🎧 AI-Powered Contact Center Intelligence System
 
 An end-to-end Speech Intelligence Platform that analyzes customer support calls using Automatic Speech Recognition (ASR), Sentiment Analysis, and Speech Emotion Recognition, and applies a Decision Engine to determine escalation or resolution actions.
 
 This project simulates how modern cloud contact centers analyze customer calls in real time to improve customer experience and agent efficiency.
 
-Audio Call (WAV)
+**Audio Call (WAV)
       ↓
 Automatic Speech Recognition (ASR)
       ↓
@@ -16,10 +16,10 @@ Speech Emotion Recognition (Audio-based)
       ↓
 Decision Engine (Business Rules)
       ↓
-Actionable Insights (Escalate / Normal / Alert)
+Actionable Insights (Escalate / Normal / Alert)**
 
 
-Datasets Used
+**Datasets Used**
 
 RAVDESS – Speech Emotion Recognition
 (Angry, Fearful, Sad, Calm voices)
@@ -56,7 +56,8 @@ project_root/
 | Deployment-ready | Modular architecture         |
 
 
-▶️ How to Run
+▶️ How to Run-
+
 1️⃣ Install dependencies
 pip install -r requirements.txt
 
